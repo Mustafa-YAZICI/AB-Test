@@ -17,10 +17,10 @@ Bir firmanın web site bilgilerini içeren bu veri setinde kullanıcıların gö
 
 **4 Değişken 40 Gözlem 26 KB**
 
-**Impression :** Reklam görüntüleme sayısı
-**Click      :** Görüntülenen reklama tıklama sayısı
-**Purchase   :** Tıklanan reklamlar sonrası satın alınan ürün sayısı
-**Earning    :** Satın alınan ürünler sonrası elde edilen kazanç
+#####**Impression :** Reklam görüntüleme sayısı
+#####**Click      :** Görüntülenen reklama tıklama sayısı
+#####**Purchase   :** Tıklanan reklamlar sonrası satın alınan ürün sayısı
+#####**Earning    :** Satın alınan ürünler sonrası elde edilen kazanç
 
 
 
